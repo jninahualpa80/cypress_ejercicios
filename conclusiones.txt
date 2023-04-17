@@ -1,0 +1,1 @@
+Se realizó lo solicitado pero se genero problemas con el sitio https://www.saucedemo.com/ y no se podía ingresar desde Cypress , se realizó un configuración de chrome websecurity en falso para que funcione
